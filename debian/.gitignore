@@ -1,0 +1,5 @@
+/chromium-source/
+/.debhelper/
+*.substvars
+*.log
+/files

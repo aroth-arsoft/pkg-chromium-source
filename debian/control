@@ -1,0 +1,16 @@
+Source: chromium-source
+Section: web
+Priority: optional
+Maintainer: Andreas Roth <aroth@arsoft-online.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: http://www.chromium.org/Home
+
+Package: chromium-source
+Architecture: all
+Recommends: xz-utils
+Description: web browser - source code
+ Web browser that aims to build a safer, faster, and more stable internet
+ browsing experience.
+ .
+ This package contains the patched source code used to build the packages.
